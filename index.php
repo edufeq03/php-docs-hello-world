@@ -14,7 +14,7 @@
 <body>
   <nav class="white" role="navigation">
     <div class="nav-wrapper container">
-      <a id="logo-container" href="#" class="brand-logo">Logo</a>
+      <a id="logo-container" href="index.php" class="brand-logo">Inicio</a>
       <ul class="right hide-on-med-and-down">
         <li><a href="formulario.html">Preencher Formulário</a></li>
       </ul>
